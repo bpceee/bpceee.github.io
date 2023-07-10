@@ -5,22 +5,24 @@
 5:HL["/_next/static/media/d9957a565b52891d-s.p.woff2",{"as":"font","type":"font/woff2"}]
 6:HL["/_next/static/media/fbdbe464b9e5cc95-s.p.woff2",{"as":"font","type":"font/woff2"}]
 7:HL["/_next/static/css/02482d46f001465e.css",{"as":"style"}]
-0:["cBWCJcKtMBjePpqaHzdJD",[[["",{"children":["posts",{"children":[["slug","13","d"],{"children":["__PAGE__?{\"slug\":\"13\"}",{}]}]}]},"$undefined","$undefined",true],"$L8",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02482d46f001465e.css","precedence":"next"}]],["$L9",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
+0:["XSGuXjuF_4mqNeeRlAOAU",[[["",{"children":["posts",{"children":[["slug","13","d"],{"children":["__PAGE__?{\"slug\":\"13\"}",{}]}]}]},"$undefined","$undefined",true],"$L8",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/02482d46f001465e.css","precedence":"next"}]],["$L9",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
 a:HL["/_next/static/media/1060bab20f18b5c2-s.p.woff2",{"as":"font","type":"font/woff2"}]
 b:HL["/_next/static/css/ca4b413b104171a1.css",{"as":"style"}]
-c:HL["/_next/static/css/2ec2d810ee62b2fc.css",{"as":"style"}]
-d:I{"id":7095,"chunks":["95:static/chunks/95-072377135f6d2de2.js","333:static/chunks/app/posts/[slug]/page-9fb517f3f5b74a35.js"],"name":"","async":false}
-e:I{"id":9180,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:static/chunks/bce60fc1-ace986fa93a43fca.js","698:static/chunks/698-2449c10902a17a12.js"],"name":"default","async":false}
-f:I{"id":2306,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:static/chunks/bce60fc1-ace986fa93a43fca.js","698:static/chunks/698-2449c10902a17a12.js"],"name":"default","async":false}
-8:[["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"marginLeft":"auto","marginRight":"auto","maxWidth":"49rem","padding":"0px 1.3125rem"},"className":"__className_135483","children":[["$","nav",null,{"className":"Navbar_navbar__fk_p7","children":[["$","$Ld",null,{"href":"/","children":" Home "}],["$","$Ld",null,{"href":"/about","children":" About "}]]}],["$","main",null,{"className":"Layout_main__luTTh","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children",["slug","13","d"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L10",null],"segment":"__PAGE__?{\"slug\":\"13\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ca4b413b104171a1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/2ec2d810ee62b2fc.css","precedence":"next"}]]}],"segment":["slug","13","d"]},"styles":[]}],"segment":"posts"},"styles":[]}]}],["$","footer",null,{"className":"Layout_footer__U3vTh","children":[["$","hr",null,{}],["$","small",null,{"children":["© ",2023," Ken Bi. Powered by"," ",["$","a",null,{"href":"https://github.com/bpceee/isblog","rel":"noopener noreferrer","target":"_blank","children":"isBlog"}]]}]]}]]}]}],null]
+c:HL["/_next/static/css/01cb1f6bc3109902.css",{"as":"style"}]
+d:I{"id":7095,"chunks":["95:static/chunks/95-072377135f6d2de2.js","333:static/chunks/app/posts/[slug]/page-f66cb93eb7e955ba.js"],"name":"","async":false}
+e:I{"id":9180,"chunks":["272:static/chunks/webpack-f193c89af52c9246.js","253:static/chunks/bce60fc1-ace986fa93a43fca.js","698:static/chunks/698-2449c10902a17a12.js"],"name":"default","async":false}
+f:I{"id":2306,"chunks":["272:static/chunks/webpack-f193c89af52c9246.js","253:static/chunks/bce60fc1-ace986fa93a43fca.js","698:static/chunks/698-2449c10902a17a12.js"],"name":"default","async":false}
+8:[["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"marginLeft":"auto","marginRight":"auto","maxWidth":"49rem","padding":"0px 1.3125rem"},"className":"__className_135483","children":[["$","nav",null,{"className":"Navbar_navbar__fk_p7","children":[["$","$Ld",null,{"href":"/","children":" Home "}],["$","$Ld",null,{"href":"/about","children":" About "}]]}],["$","main",null,{"className":"Layout_main__luTTh","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children",["slug","13","d"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$Lf",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L10",null],"segment":"__PAGE__?{\"slug\":\"13\"}"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ca4b413b104171a1.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/01cb1f6bc3109902.css","precedence":"next"}]]}],"segment":["slug","13","d"]},"styles":[]}],"segment":"posts"},"styles":[]}]}],["$","footer",null,{"className":"Layout_footer__U3vTh","children":[["$","hr",null,{}],["$","small",null,{"children":["© ",2023," Ken Bi. Powered by"," ",["$","a",null,{"href":"https://github.com/bpceee/isblog","rel":"noopener noreferrer","target":"_blank","children":"isBlog"}]]}]]}]]}]}],null]
 9:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Create Next App"}],["$","meta","2",{"name":"description","content":"Generated by create next app"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"any"}]]
-12:I{"id":5282,"chunks":["95:static/chunks/95-072377135f6d2de2.js","333:static/chunks/app/posts/[slug]/page-9fb517f3f5b74a35.js"],"name":"Utterance","async":false}
-11:T1e3c,<html><head></head><body><p dir="auto">So I came across <a href="https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it" rel="nofollow">this blog post</a> when browsing Aha!'s engineering blog. The acknowledgement that CSS is challenging and the methodically structured approach they are taking to address the problem resonates with me.</p>
+12:I{"id":5282,"chunks":["95:static/chunks/95-072377135f6d2de2.js","333:static/chunks/app/posts/[slug]/page-f66cb93eb7e955ba.js"],"name":"Utterance","async":false}
+11:T1fd1,<html><head></head><body><p dir="auto">So I came across <a href="https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it" rel="nofollow">this blog post</a> when browsing Aha!'s engineering blog. The acknowledgement that CSS is challenging and the methodically structured approach they are taking to address the problem resonates with me.</p>
 <p dir="auto">At the end of the article, it states, "If you know the reason or have a different solution, we would love to hear from you." So, here I am, attempting to find a reason and perhaps offer a different solution.</p>
 <h2 dir="auto">The Problem</h2>
 <p dir="auto">An <code class="notranslate">img</code> tag causing misalignment.</p>
 <p dir="auto"><div>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="rNrPYNQ" data-user="jsteel64" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <a href="">Refresh page to view</a>
+        <span>&nbsp;or&nbsp;</span> 
         <a href="https://codepen.io/jsteel64/pen/rNrPYNQ">
           View on CodePen
         </a>.
@@ -37,6 +39,8 @@ f:I{"id":2306,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:sta
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/4188573/252216999-dff44aed-85b0-4c73-8c69-f94abe95b165.png"><img src="https://user-images.githubusercontent.com/4188573/252216999-dff44aed-85b0-4c73-8c69-f94abe95b165.png" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto"><div>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWJOLbm" data-user="bpceee-the-typescripter" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <a href="">Refresh page to view</a>
+        <span>&nbsp;or&nbsp;</span> 
         <a href="https://codepen.io/bpceee-the-typescripter/pen/QWJOLbm">
           View on CodePen
         </a>.
@@ -54,6 +58,8 @@ f:I{"id":2306,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:sta
 <p dir="auto">Here is an example where the first element is bigger than the second:</p>
 <p dir="auto"><div>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="yLQPBXG" data-user="bpceee-the-typescripter" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <a href="">Refresh page to view</a>
+        <span>&nbsp;or&nbsp;</span> 
         <a href="https://codepen.io/bpceee-the-typescripter/pen/yLQPBXG">
           View on CodePen
         </a>.
@@ -63,6 +69,8 @@ f:I{"id":2306,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:sta
 <p dir="auto">But what if they don’t have the same height?</p>
 <p dir="auto"><div>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKryPvG" data-user="bpceee-the-typescripter" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <a href="">Refresh page to view</a>
+        <span>&nbsp;or&nbsp;</span> 
         <a href="https://codepen.io/bpceee-the-typescripter/pen/KKryPvG">
           View on CodePen
         </a>.
@@ -73,6 +81,8 @@ f:I{"id":2306,"chunks":["272:static/chunks/webpack-60e2e3ac064dc981.js","253:sta
 <p dir="auto">Wrap them around a flexbox container.</p>
 <p dir="auto"><div>
       <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="wvQPwyj" data-user="bpceee-the-typescripter" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <a href="">Refresh page to view</a>
+        <span>&nbsp;or&nbsp;</span> 
         <a href="https://codepen.io/bpceee-the-typescripter/pen/wvQPwyj">
           View on CodePen
         </a>.
